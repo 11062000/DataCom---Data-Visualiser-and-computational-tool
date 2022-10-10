@@ -1,0 +1,163 @@
+{
+  "Header": {
+    "title": "DataCom - A tool for data computation",
+    "paragraph": "Tool to be used if you wish to view your data in any format - charts, statistical view or regression modelling view."
+  },
+  "About": {
+    "paragraph": "DataCom - A tool for data computation, as the name depicts it is a website that enable you to view every aspects of your data on a single platform with an easy interface and accurate results. DataCom is one stop solution for your needs like viewing your data in charts format, viewing statistical view of your data like mean, median, mode etc and other than this it also provides you with a legacy to view modelling of your data, which can further be used to see future forecasting of your data.",
+    "Why": [
+      "Easy to use",
+      "No coding required",
+      "Beatiful user interface",
+      "No sign required if you wish not to"
+    ],
+    "Why2": [
+      "Easy downloads",
+      "Statistical aspects in one go",
+      "live updating",
+      "Easy data access"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Unlimited visualizations",
+      "text": "Even on our free plan, there’s no limit to the number of charts, maps, and tables you can create."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Private by default",
+      "text": "No matter which plan you choose, all your visualizations and data are private until you hit the “Publish” button."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Responsive",
+      "text": "On desktop devices, tablets, or smartphones — DataCom visualizations are beautiful and readable everywhere."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "PNG, SVG, PDF export",
+      "text": "Export every visualization as PNG, SVG, or PDF and continue working in for the same data numerous number of times."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Live updating",
+      "text": "All our visualizations can update themselves periodically. Simply link to an external CSV or Google Sheet."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Print-ready graphics",
+      "text": "Even print-ready PDFs with defined CMYK colors are possible."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+ 
+  "Contact": {
+    "address": "4321 California St, San Francisco, CA 12345 ",
+    "phone": "+1 123 456 1234",
+    "email": "DataComAR@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Charts",
+      "text": "Use one of 19 interactive and responsive chart types ranging from simple bars and lines to arrow, range, and scatter plots."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Statistical view of data",
+      "text": "You can here view Statistical view of your data like mean, median, mode etc in a single screen."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Data Modelling",
+      "text": "It also provides data modelling feature to your data which can further be used to do future forecasting of your data."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Download Data in one click",
+      "text": "Export every visualization as PNG, SVG, or PDF and continue working in, e.g., Adobe Illustrator."
+    }
+  ]
+}
